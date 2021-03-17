@@ -1,5 +1,8 @@
-header {background-color: orange;
-        position: relative;}
+header {width: 100%;
+        background-color: orange;
+        position: fixed;
+        top: 10
+        right: 10}
 
 section {background-color: aqua;}
 
